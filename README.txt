@@ -1,0 +1,1 @@
+jupyter nbconvert APISTAR.ipynb --to slides --post serve
